@@ -55,7 +55,8 @@ namespace restCadastro
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            /*liberando comunicação com o front*/
+            app.UseCors(builder => builder.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
