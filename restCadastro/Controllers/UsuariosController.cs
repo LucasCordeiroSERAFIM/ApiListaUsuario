@@ -27,7 +27,7 @@ namespace restCadastro.Controllers
             return await _context.Usuarios.ToListAsync();
         }
 
-        // GET: api/Usuarios/5
+        // GET: api/Usuarios/id
         [HttpGet("{id}")]
         public async Task<ActionResult<Usuario>> GetUsuario(int id)
         {
