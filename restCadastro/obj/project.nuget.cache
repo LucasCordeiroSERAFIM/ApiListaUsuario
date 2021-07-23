@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kLBOBON5FCVkjXN21DNsGVxfZaznZ6EuvjtFTKXdUkGfuj/668nb2XQS4swWwA6UwwCf98LhUzwfE77Jclzh+A==",
+  "dgSpecHash": "SztZXOMgXYijFrHi8TQPb41scaFHIkVieqfHfXcAjo0mooAC49QL+/1X0wSxnMzGtzybMQuSwBUrb7H0VtpZHQ==",
   "success": true,
-  "projectFilePath": "F:\\Git\\ApiListaUsuario\\restCadastro\\restCadastro.csproj",
+  "projectFilePath": "F:\\Git\\AngularcomRest\\ApiListaUsuario\\restCadastro\\restCadastro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\linqkit.microsoft.entityframeworkcore\\5.0.24\\linqkit.microsoft.entityframeworkcore.5.0.24.nupkg.sha512",
